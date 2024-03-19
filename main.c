@@ -11,3 +11,5 @@ printf("Hello gitir flowr");
 
 #\*adicao para a terceira release*\
 \\\blavalkandjnd nova release///
+
+arualziacao na develop para poder jogar na release
